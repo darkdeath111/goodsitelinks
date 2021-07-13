@@ -1,2 +1,2 @@
 # goodsitelinks
-A collection of list of good sites.
+## A collection of links of some useful sites.

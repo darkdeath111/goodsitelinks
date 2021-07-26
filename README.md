@@ -5,7 +5,8 @@
 - www.neal.fun
 
 ### Fun sites for social medias
-- www.blackmagic.so realtime banners for twitter
+- www.blackmagic.so 
+    > realtime banners for twitter
 
 ### Learning websites
 - www.billiondollarpitchdecks.com Original Pitch decks of startups

@@ -3,3 +3,6 @@
 
 ### Fun Sites
 www.neal.fun
+
+### Fun sites for social medias
+www.blackmagic.so realtime banners for twitter

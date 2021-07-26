@@ -18,3 +18,6 @@
 - www.bildr.com Visual App builder for web and chrome extensions
 - www.bubble.io for mobile and web
 - www.glideapp.com for mobile apps
+
+### Zoom tools
+www.mmhmm.app for beautiful presentations 

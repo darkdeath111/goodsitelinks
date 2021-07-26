@@ -13,6 +13,7 @@
 ### Designs
 - www.reallygoodemails.com Email campaign desings
 - www.meshgradients.design for mesh gradients
+- www.khroma.co for color pallette
 
 ### App Builders
 - www.bildr.com Visual App builder for web and chrome extensions
@@ -20,4 +21,4 @@
 - www.glideapp.com for mobile apps
 
 ### Zoom tools
-www.mmhmm.app for beautiful presentations 
+- www.mmhmm.app for beautiful presentations 

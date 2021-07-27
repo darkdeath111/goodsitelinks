@@ -4,6 +4,8 @@
 ## Fun Sites
 - www.neal.fun
 	> fun mini apps
+- https://mechvibes.com
+	> mechanical keyboard vibes
 
 ## Fun sites for social medias
 - www.blackmagic.so 
